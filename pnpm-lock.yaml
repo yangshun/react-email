@@ -610,8 +610,8 @@ importers:
         specifier: 7.22.5
         version: 7.22.5(@babel/core@7.21.8)
       '@types/html-to-text':
-        specifier: 9.0.1
-        version: 9.0.1
+        specifier: 9.0.4
+        version: 9.0.4
       '@types/pretty':
         specifier: 2.0.1
         version: 2.0.1
@@ -2032,8 +2032,8 @@ packages:
       '@types/node': 18.18.0
     dev: true
 
-  /@types/html-to-text@9.0.1:
-    resolution: {integrity: sha512-sHu702QGb0SP2F0Zt+CxdCmGZIZ0gEaaCjqOh/V4iba1wTxPVntEPOM/vHm5bel08TILhB3+OxUTkDJWnr/zHQ==}
+  /@types/html-to-text@9.0.4:
+    resolution: {integrity: sha512-pUY3cKH/Nm2yYrEmDlPR1mR7yszjGx4DrwPjQ702C4/D5CwHuZTgZdIdwPkRbcuhs7BAh2L5rg3CL5cbRiGTCQ==}
     dev: true
 
   /@types/json-schema@7.0.13:
